@@ -1,4 +1,4 @@
-#Programmeerimise alused - ITA24(23)
+Programmeerimise alused - ITA24(23)
 
 Tartu Rakenduslik Kolledž
 
