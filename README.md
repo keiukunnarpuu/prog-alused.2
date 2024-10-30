@@ -4,4 +4,4 @@ Tartu Rakenduslik Kolledž
 
 Keiu Künnarpuu
 
-https://i.pinimg.com/564x/bd/90/5c/bd905c8f6d3a7768fe59bb0557f40335.jpg
+![image](https://github.com/user-attachments/assets/c54effb4-ba2d-403f-b86a-31f0b0a18e54)
